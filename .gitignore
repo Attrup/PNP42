@@ -38,3 +38,6 @@ fp-info-cache
 .DS_Store 
 *.raw 
 *.log
+
+#Exceptions
+!OpenPnP_config/*.xml
